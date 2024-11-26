@@ -2,7 +2,8 @@
 
 **Data Scientist** con experiencia en **machine learning**, **visualización de datos** y **arquitectura de datos**. Mi objetivo es transformar datos complejos en soluciones prácticas y valiosas utilizando herramientas como **Power BI**, **Tableau**, **AWS** y **Python**. 
 
-🚀 **Mi Estilo de Vida**: Vivo viajando! Actualmente, estoy por el sur de América en una **VW** con mi **husky siberiano**. Utilizo **energía solar** e **internet satelital** para trabajar remotamente desde cualquier lugar del planeta. Esta vida nómada me permite combinar mi pasión por los datos con la aventura y explorar nuevas ideas desde cualquier rincón del planeta.🚀
+🚀 **Mi Estilo de Vida**: Vivo viajando! Actualmente en el sur de América en una **VW** y Julia, mi **husky siberiano**.
+Utilizo **energía solar** e **internet satelital** para trabajar remotamente desde cualquier lugar del planeta. Esta vida nómada me permite combinar mi pasión por los datos con la aventura y explorar nuevas ideas desde cualquier rincón del planeta.🚀
  
 
 
