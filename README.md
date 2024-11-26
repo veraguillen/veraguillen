@@ -44,7 +44,7 @@ Utilizo **energía solar** e **internet satelital** para trabajar remotamente de
 Si tienes alguna pregunta, quieres colaborar o simplemente intercambiar ideas, no dudes en contactarme:
 
 - **Correo electrónico**: vera.guillen27@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/vera-guillen-9b464a303/?trk=opento_sprofile_topcard
+- **LinkedIn**: https://www.linkedin.com/in/vera-guillen-9b464a303/
 - **GitHub**: https://github.com/veraguillen
 
 ---
