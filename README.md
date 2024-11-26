@@ -1,6 +1,6 @@
 # ¡Hola, soy @veraguillen! 👋
 
-**Data Scientist** con experiencia en **machine learning**, **visualización de datos** y **arquitectura de datos**. Mi objetivo es transformar datos complejos en soluciones prácticas y valiosas utilizando herramientas como **Power BI**, **Tableau**, **AWS**, **Hadoop**, **Spark** y **Python**. 
+**Data Scientist** con experiencia en **machine learning**, **visualización de datos** y **arquitectura de datos**. Mi objetivo es transformar datos complejos en soluciones prácticas y valiosas utilizando herramientas como **Power BI**, **Tableau**, **AWS** y **Python**. 
 
 🚀 **Mi Estilo de Vida**: Vivo viajando! Actualmente, estoy por el sur de América en una **VW** con mi **husky siberiano**. Utilizo **energía solar** e **internet satelital** para trabajar remotamente desde cualquier lugar del planeta. Esta vida nómada me permite combinar mi pasión por los datos con la aventura y explorar nuevas ideas desde cualquier rincón del planeta.🚀
  
@@ -12,7 +12,6 @@
 
 - **Análisis de Datos**: Limpieza, análisis descriptivo y visualización interactiva.
 - **Machine Learning**: Desarrollo y optimización de modelos predictivos con **Scikit-learn** y **TensorFlow**.
-- **Big Data**: Procesamiento y análisis de grandes volúmenes de datos con **Hadoop** y **Spark**.
 - **Bases de Datos**: Diseño y gestión de bases de datos **MySQL** y **PostgreSQL**.
 - **Infraestructura en la Nube**: Implementación de soluciones en **AWS** (Glue, Redshift, S3).
 - **Desarrollo Backend**: Creación de **APIs** y sistemas para integración de datos.
@@ -43,10 +42,9 @@
 
 Si tienes alguna pregunta, quieres colaborar o simplemente intercambiar ideas, no dudes en contactarme:
 
-- **Correo electrónico**: [tu correo]
-- **LinkedIn**: [tu enlace de LinkedIn]
-- **Twitter**: [tu enlace de Twitter]
-- **GitHub**: [tu enlace de GitHub]
+- **Correo electrónico**: vera.guillen27@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/vera-guillen-9b464a303/?trk=opento_sprofile_topcard
+- **GitHub**: https://github.com/veraguillen
 
 ---
 
